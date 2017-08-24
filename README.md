@@ -1,6 +1,12 @@
 # clnd
 Cleans up after Sonarr and Radarr
 
+# Get Started #
+
+install Go and setup your [GOPATH](http://golang.org/doc/code.html#GOPATH)
+
+# Usage #
+
 Add to Sonarr or Radarr as a Custom Script.
 
 Settings > Connect > + > Custom Script 
